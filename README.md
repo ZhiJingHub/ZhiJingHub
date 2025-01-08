@@ -1,1 +1,7 @@
-![Metrics](https://cdn.jsdelivr.net/gh/ZhiJingHub/ZhiJingHub@7e03484bac9e1bb6bd4069093317ad198f4d7dfa/github-metrics.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhiJingHub/ZhiJingHub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhiJingHub/ZhiJingHub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhiJingHub/ZhiJingHub/output/github-contribution-grid-snake.svg">
+</picture>
+
+![Metrics](/github-metrics.svg)
